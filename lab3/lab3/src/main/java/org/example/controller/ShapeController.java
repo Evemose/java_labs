@@ -1,9 +1,9 @@
 package org.example.controller;
 
+import org.example.model.Shape;
 import org.example.model.comparators.AreaComparator;
 import org.example.model.comparators.ColorComparator;
 import org.example.view.ShapeView;
-import org.example.model.Shape;
 
 import java.util.Arrays;
 
